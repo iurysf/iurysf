@@ -1,5 +1,7 @@
 # ⚡ Iury Alcantara
 
+[![My Skills](https://skillicons.dev/icons?i=ai,nextjs,react,tailwind,ts,vscode,supabase,css,c,bots,github,godot,html,js,lua,opencv,py,sqlite,selenium)](https://skillicons.dev)
+
 ### 🏗️ Software Engineer | UI/UX Enthusiast | Tool Maker
 
 I build pragmatic software, ranging from **SaaS platforms** to **automation scripts** and **game development**.
@@ -25,5 +27,3 @@ I build pragmatic software, ranging from **SaaS platforms** to **automation scri
 
 ### 📡 Get in Touch
 [LinkedIn](In development) • [Portfolio](In development) • Email: iury_sf@hotmail.com
-
-[![My Skills](https://skillicons.dev/icons?i=ai,nextjs,react,tailwind,ts,vscode,supabase,css,c,arduino,androidstudio,bots,github,gmail,godot,html,js,lua,opencv,py,sqlite,selenium)](https://skillicons.dev)
