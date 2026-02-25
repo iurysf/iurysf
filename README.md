@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ai,nextjs,react,tailwind,ts,vscode,supabase,css,c,bots,github,godot,html,js,lua,opencv,py,sqlite,selenium)](https://skillicons.dev)
 
-### 🏗️ Software Engineer | UI/UX Enthusiast | Tool Maker
+### 🏗️ Software Engineer | UI/UX | Tool Maker
 
 I build pragmatic software, ranging from **SaaS platforms** to **automation scripts** and **game development**.
 
