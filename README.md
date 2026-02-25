@@ -2,7 +2,7 @@
 
 ### 🏗️ Software Engineer | UI/UX Enthusiast | Tool Maker
 
-I build pragmatic software, ranging from **SaaS platforms** to **automation scripts** and **game development**. I believe in function over form, favoring robust architectures, offline-first capabilities, and industrial/brutalist design patterns.
+I build pragmatic software, ranging from **SaaS platforms** to **automation scripts** and **game development**.
 
 ---
 
