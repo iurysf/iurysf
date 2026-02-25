@@ -25,3 +25,7 @@ I build pragmatic software, ranging from **SaaS platforms** to **automation scri
 
 ### 📡 Get in Touch
 [LinkedIn](In development) • [Portfolio](In development) • Email: iury_sf@hotmail.com
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
