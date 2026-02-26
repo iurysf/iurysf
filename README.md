@@ -1,6 +1,6 @@
 # ⚡ Iury Alcantara
 
-[![My Skills](https://skillicons.dev/icons?i=ai,nextjs,react,tailwind,ts,supabase,css,c,bots,github,godot,html,js,py,sqlite,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,nextjs,react,tailwind,ts,supabase,css,c,bots,godot,html,js,py,sqlite,selenium)](https://skillicons.dev)
 
 ### 🏗️ Software Engineer | UI/UX | Tool Maker
 
