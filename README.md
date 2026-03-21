@@ -4,16 +4,13 @@
 
 ### 🏗️ Software Engineer | UI/UX | Tool Maker
 
-I build pragmatic software, ranging from **SaaS platforms** to **automation scripts** and **game development**.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 - **Frontend & UI/UX:** React, Next.js, TailwindCSS, CustomTkinter
-- **Backend & Automation:** Python (Asyncio, Telethon), Node.js
-- **Game Dev & Graphics:** Godot Engine, Three.js
-- **Design Philosophy:** Brutalism, Mobile-First, High-Performance (SSR/RSC)
+- **Backend & Automation:** Python, Node.js
+- **Game Dev & Graphics:** Godot Engine
 
 ---
 
