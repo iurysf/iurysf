@@ -16,7 +16,6 @@
 
 ### 🚀 Featured Projects
 
-*   **In development** - A comprehensive B2B SaaS for HVAC/condominium technical reports. Features role-based access, offline-ready architecture, and automated PDF generation. *(Next.js)*
 *   **[Telegram Auto-Message Bot](https://github.com/iurysf/Telegram-Auto-Msg)** - A stealthy, multi-threaded Telegram UserBot with a premium Desktop GUI built for safe, anti-ban message broadcasting. *(Python / CustomTkinter)*
 *   **In development** - Active development of a mobile puzzle game focused on tight mechanics and monetization. *(Godot / GDScript)*
 
